@@ -1,2 +1,2 @@
 path: "my_model.joblib" 
-features: ["body_mass_g', 'bill_length_mm"]
+features: ["body_mass_g", "bill_length_mm"]
